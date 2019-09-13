@@ -41,6 +41,11 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 ### Installation
 - Install
 
-# Referencia
+# Referencias
 Se toma como referencia el trabajo:
 [paper](https://arxiv.org/abs/1902.03253) "Skin Lesion Synthesis with Generative Adversarial Networks" in ISIC Skin Image Analysis Workshop and Challenge @ MICCAI 2018. Donde utilizan el dataset de 2018 ISIC Challenge teniendo como entrada una mascara semantica y como salida una imagen de una lesion cutanea. Disponible [here](https://github.com/alceubissoto/gan-skin-lesion)
+
+Se toma como referencia el trabajo:
+[paper](https://arxiv.org/abs/1907.00856) "MobileGAN: Skin Lesion Segmentation Using a Lightweight Generative Adversarial Network" 
+
+
