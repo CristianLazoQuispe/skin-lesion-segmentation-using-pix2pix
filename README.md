@@ -29,7 +29,7 @@ Para 50 epocas :
 
 
 
-## Prerequisites
+## Prerequisitos
 - Python 2.7
 - PyTorch v0.2.0
 - Numpy
