@@ -4,13 +4,18 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 ## Se realiza dos pruebas:
 ### Ejemplo para map completo 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 -- pigment network
 -- negative network
 -- streaks
 -- milia-like cysts
 -- globules (including dots)
-
 <img src="images/MAP_ISIC_0000013.jpg?raw=true" width="1000" height = "200"/>
+
 ### Ejemplo para segmentacion de melanoma: 
 <img src="images/MAP_ISIC_0000013.jpg?raw=true" width="1000" height = "200"/>
 
