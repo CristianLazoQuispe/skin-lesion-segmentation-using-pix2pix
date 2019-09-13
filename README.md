@@ -41,11 +41,16 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 ####  Entrada_____________________________Original_____________________________Pix2pix
 <img src="images/ISIC_0013664.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "256"/> ![cifar10](images/OUTPUT_MAP.gif)
 
+<img src="images/MAP_test.jpg?raw=true" width="600" height = "200"/>
+
 
 ### Ejemplo dataset para segmentacion de lesion:
 Para 50 epocas  para la imagen ISIC_0013664.jpg: 
 ####  Entrada_____________________________Original_____________________________Pix2pix
 <img src="images/ISIC_0013664.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "256"/> ![cifar10](images/OUTPUT_MAP.gif)
+
+<img src="images/MAP_test.jpg?raw=true" width="600" height = "200"/>
+
 
 # Referencias
 Se toma como referencia el trabajo:
