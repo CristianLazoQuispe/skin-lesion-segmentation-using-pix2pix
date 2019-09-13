@@ -17,20 +17,23 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 <img src="images/SEGMENTATION_ISIC_0000013.jpg?raw=true" width="600" height = "200"/>
 
 
+## Preparing the data and environment
 
+### Descargar el dataset
+<ul>
+  <li>ISIC2018_Task1-2_Training_Input</li>
+  <li>ISIC2018_Task1_Training_GroundTruth</li>
+  <li>ISIC2018_Task2_Training_GroundTruth_v3</li>
+</ul>
+Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://challenge2018.isic-archive.com/participate/) de la parte de training.
 
+### Configuring the enviroment.
+Yo uso conda enviroments:
+`conda create -n gansp3 python=3.7`
+`conda activate gansp3`
 
-## Prerequisitos
-- Python 2.7
-- PyTorch v0.2.0
-- Numpy
-- SciPy
-- Matplotlib
+### Install dependencies
 
-
-## Getting Started
-### Installation
-- Install
 
 
 
