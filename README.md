@@ -4,7 +4,7 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 ## Se realiza dos pruebas:
 ### Ejemplo dataset para segmentacion de melanoma: 
-<img src="images/MAP_ISIC_0000013.jpg?raw=true" width="2000" height = "300"/>
+<img src="images/MAP_ISIC_0000013.jpg?raw=true" width="2500" height = "300"/>
 
 ### Ejemplo dataset para detección de atributos:
 <ul>
