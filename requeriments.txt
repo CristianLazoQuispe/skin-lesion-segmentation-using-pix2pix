@@ -1,3 +1,0 @@
-pip install tensorflow-gpu==2.0.0-rc0
-pip install joblib
-
