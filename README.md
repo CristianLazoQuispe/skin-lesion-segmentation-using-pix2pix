@@ -21,12 +21,14 @@ La segmentacion de la lesión cutanea es un procedimiento esencial para la clasi
 ## Getting started
 
 ### Descargar el dataset
+
+Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://challenge2018.isic-archive.com/participate/) de la parte de training. Guardar las 3 carpetas en una carpeta "dataset"
+
 <ul>
   <li>ISIC2018_Task1-2_Training_Input</li>
   <li>ISIC2018_Task1_Training_GroundTruth</li>
   <li>ISIC2018_Task2_Training_GroundTruth_v3</li>
 </ul>
-Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://challenge2018.isic-archive.com/participate/) de la parte de training. Guardar las 3 carpetas en una carpeta "dataset"
 
 ### Configuring the enviroment.
 Para preparar todo automaticamente usar el bash `sh preparar.sh` sino seguir los pasos:
