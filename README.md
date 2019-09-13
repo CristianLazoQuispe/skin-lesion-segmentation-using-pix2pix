@@ -1,4 +1,4 @@
-# Pix2pix-skin-lesion
+# skin lesion segmentation using pix2pix
 Tensorflow implementation of [Skin cancer - semantic segmentation with Generative Adversarial Networks](__) by Cristian Lazo Quispe.
 
 
