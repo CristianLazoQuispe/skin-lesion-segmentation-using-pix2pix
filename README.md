@@ -18,16 +18,17 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 
 ## Preparing the data and environment
-
+Para preparar todo automaticamente usar el bash `sh preparar.sh`
 ### Descargar el dataset
 <ul>
   <li>ISIC2018_Task1-2_Training_Input</li>
   <li>ISIC2018_Task1_Training_GroundTruth</li>
   <li>ISIC2018_Task2_Training_GroundTruth_v3</li>
 </ul>
-Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://challenge2018.isic-archive.com/participate/) de la parte de training.
+Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://challenge2018.isic-archive.com/participate/) de la parte de training. Guardar las 3 carpetas en una carpeta "datasets"
 
 ### Configuring the enviroment.
+
 Yo uso conda enviroments:
 `conda create -n gansp3 python=3.7`
 `conda activate gansp3`
