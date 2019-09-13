@@ -31,25 +31,11 @@ Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://
 </ul>
 
 ### Configuring the enviroment.
-Para preparar todo automaticamente usar el bash `sh preparar.sh` sino seguir los pasos:
+Para preparar todo seguir los pasos:
 Yo uso conda enviroments:
-`conda create -n gansp3 python=3.7`
+` conda env create -f environment.yml`
 
-`conda activate gansp3`
 
-`pip install opencv-python`
-
-`pip install Pillow`
-
-`pip install tqdm`
-
-`pip install matplotlib`
-
-`pip install joblib`
-
-``
-
-``
 
 ### Install dependencies
 
