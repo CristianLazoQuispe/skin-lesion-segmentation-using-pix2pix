@@ -39,6 +39,18 @@ Yo uso conda enviroments:
 
 `pip install opencv-python`
 
+`pip install Pillow`
+
+`pip install tqdm`
+
+`pip install matplotlib`
+
+`pip install joblib`
+
+``
+
+``
+
 ### Install dependencies
 
 
