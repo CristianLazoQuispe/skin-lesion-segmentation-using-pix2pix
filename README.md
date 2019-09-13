@@ -22,8 +22,8 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 ### Ejemplo dataset para detección de atributos:
 Para 50 epocas  para la imagen ISIC_0013664.jpg: 
-####  Entrada
-<img src="images/ISIC_0013664.jpg?raw=true" height = "260"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "260"/> ![cifar10](images/OUTPUT_MAP.gif)
+####  Entrada                                                       Salida
+<img src="images/ISIC_0013664.jpg?raw=true" height = "250"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "250"/> ![cifar10](images/OUTPUT_MAP.gif)
 
 
 
