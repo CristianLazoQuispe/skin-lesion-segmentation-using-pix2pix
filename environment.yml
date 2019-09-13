@@ -159,7 +159,6 @@ dependencies:
   - testpath=0.4.2=py36_0
   - tk=8.6.8=hbc83047_0
   - toolz=0.10.0=py_0
-  - torchvision-gpu=0.1.8=py36_0
   - tornado=6.0.3=py36h7b6447c_0
   - tqdm=4.32.1=py_0
   - traitlets=4.3.2=py36_0
