@@ -59,11 +59,16 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 
 
 # Referencias
-Se toma como referencia el trabajo:
-[paper](https://arxiv.org/abs/1902.03253) "Skin Lesion Synthesis with Generative Adversarial Networks" in ISIC Skin Image Analysis Workshop and Challenge @ MICCAI 2018. Donde utilizan el dataset de 2018 ISIC Challenge teniendo como entrada una mascara semantica y como salida una imagen de una lesion cutanea. Disponible [here](https://github.com/alceubissoto/gan-skin-lesion)
 
-Se toma como referencia el procedimiento de segmentación usado en el trabajo:
-[paper](https://arxiv.org/abs/1907.00856) "MobileGAN: Skin Lesion Segmentation Using a Lightweight Generative Adversarial Network" 
-Se toma como referencia la importancia de la segmentación y de eliminar los artifacts:
- [paper](https://arxiv.org/pdf/1904.11126.pdf) "Skin Cancer Segmentation and Classification with NABLA-N and Inception Recurrent Residual Convolutional Networks"
+Se toma como referencias:
+
+[paper](https://arxiv.org/abs/1611.07004) "Image-to-Image Translation with Conditional Adversarial Networks" El paper explica el trabajo de la red Pix2pix.
+
+[paper](https://arxiv.org/abs/1902.03253) "Skin Lesion Synthesis with Generative Adversarial Networks" in ISIC Skin Image Analysis Workshop and Challenge @ MICCAI 2018. Donde utilizan el dataset de 2018 ISIC Challenge teniendo como entrada una mascara semantica y como salida una imagen de una lesion cutanea. Disponible [here](https://github.com/alceubissoto/gan-skin-lesion).
+
+[paper](https://arxiv.org/abs/1907.00856) "MobileGAN: Skin Lesion Segmentation Using a Lightweight Generative Adversarial Network". Se toma comom referencia la metodología.
+
+[paper](https://arxiv.org/pdf/1904.11126.pdf) "Skin Cancer Segmentation and Classification with NABLA-N and Inception Recurrent Residual Convolutional Networks". Se toma como referencia la importancia de la segmentación y de eliminar los artifacts.
+
+
 
