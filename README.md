@@ -32,13 +32,16 @@ Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://
 
 ### Configuring the enviroment.
 Para preparar todo seguir los pasos:
+
 Yo uso conda enviroments:
-` conda env create -f environment.yml`
 
+`conda env create -f environment.yml`
 
+### Make dataset
 
-### Install dependencies
-
+Run Make_dataset.ipynb , cambiar TARGET = 'MAP' or 'SEGMENTATION' dependiendo de la prueba que desees.
+  
+Run Train_Test_pix2pix.ipynb , cambiar TARGET = 'MAP' or 'SEGMENTATION' dependiendo de la prueba que desees.
 
 
 
