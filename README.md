@@ -4,7 +4,7 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 ## Se realiza dos pruebas:
 ### Ejemplo para map completo 
-<img src="/../images/MAP_ISIC_0000013.jpg.png?raw=true" width="425"/>
+<img src="/../images/MAP_ISIC_0000013.jpg?raw=true" width="425"/>
 
 ### Results on CIFAR10
 Note that in this repo, only the unsupervised version was implemented for now. I reaplced the orginal architecture with DCGAN and the results are more colorful than the original one.
