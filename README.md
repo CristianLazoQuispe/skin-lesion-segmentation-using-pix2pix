@@ -1,23 +1,23 @@
-# Skin lesion segmentation using Generative Adversarial Networks-Pix2pix
+# Skin attribute detection using Generative Adversarial Networks-Pix2pix
 
 En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix.
 
 ## Se realiza dos pruebas:
-### Ejemplo para map completo 
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
--- pigment network
--- negative network
--- streaks
--- milia-like cysts
--- globules (including dots)
+### Ejemplo dataset para segmentacion de melanoma: 
 <img src="images/MAP_ISIC_0000013.jpg?raw=true" width="1000" height = "200"/>
 
-### Ejemplo para segmentacion de melanoma: 
-<img src="images/MAP_ISIC_0000013.jpg?raw=true" width="1000" height = "200"/>
+### Ejemplo dataset para detección de atributos:
+<ul>
+  <li>pigment network</li>
+  <li>negative network</li>
+  <li>streaks</li>
+  <li>milia-like cysts</li>
+  <li> globules (including dots)</li>
+</ul>
+
+<img src="images/SEGMENTATION_ISIC_0000013.jpg?raw=true" width="1000" height = "200"/>
+
+
 
 ### Results on CIFAR10
 Note that in this repo, only the unsupervised version was implemented for now. I reaplced the orginal architecture with DCGAN and the results are more colorful than the original one.
