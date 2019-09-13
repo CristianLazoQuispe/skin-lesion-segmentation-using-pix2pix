@@ -1,4 +1,4 @@
-# Skin lesion segmentation using Generative Adversarial Networks Pix2pix
+# Skin lesion segmentation using Generative Adversarial Networks-Pix2pix
 
 En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix.
 
