@@ -1,6 +1,6 @@
 # Skin attribute detection using Generative Adversarial Networks-Pix2pix
 
-En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix.
+En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix. Siendo este procedimiento ensencial para la clasificación de melanoma o no melanoma, ya que se tiene el area de interes.
 
 ## Se realiza dos pruebas:
 ### Ejemplo dataset para detección de atributos:
