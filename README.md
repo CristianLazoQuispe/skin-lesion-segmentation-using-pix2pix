@@ -18,10 +18,14 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 
 
-### Results on CIFAR10
-Note that in this repo, only the unsupervised version was implemented for now. I reaplced the orginal architecture with DCGAN and the results are more colorful than the original one.
+## Resultados
 
-From 0 to 100 epochs:
+### Ejemplo dataset para detección de atributos:
+
+<img src="images/ISIC_0013664.jpg.jpg?raw=true" width="425"/><img src="images/ISIC_0013664.jpg.jpg?raw=true" width="425"/>
+
+
+
 
 ![cifar10](results/cifar10/cifar10.gif)
 
