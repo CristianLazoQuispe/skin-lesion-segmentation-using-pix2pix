@@ -1,7 +1,7 @@
 # Skin attribute detection using Generative Adversarial Networks-Pix2pix
 
 En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix. 
-La segmentacion de la lesión cutanea es un procedimiento esencial para la clasificación de melanoma o no melanoma, ya que se obtiene el área de interes eliminando los artifacts: "hairs, veins, ruler marks" [paper](https://arxiv.org/pdf/1904.11126.pdf) , para que el algoritmo que se use funcione mejor. 
+La segmentacion de la lesión cutanea es un procedimiento esencial para la clasificación de melanoma o no melanoma, ya que se obtiene el área de interes eliminando los artifacts: "hairs, veins, ruler marks", para que el algoritmo que se use funcione mejor. 
 
 ## Se realiza dos pruebas:
 ### Ejemplo dataset para detección de atributos:
@@ -62,7 +62,8 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 Se toma como referencia el trabajo:
 [paper](https://arxiv.org/abs/1902.03253) "Skin Lesion Synthesis with Generative Adversarial Networks" in ISIC Skin Image Analysis Workshop and Challenge @ MICCAI 2018. Donde utilizan el dataset de 2018 ISIC Challenge teniendo como entrada una mascara semantica y como salida una imagen de una lesion cutanea. Disponible [here](https://github.com/alceubissoto/gan-skin-lesion)
 
-Se toma como referencia el trabajo:
+Se toma como referencia el procedimiento de segmentación usado en el trabajo:
 [paper](https://arxiv.org/abs/1907.00856) "MobileGAN: Skin Lesion Segmentation Using a Lightweight Generative Adversarial Network" 
-
+Se toma como referencia la importancia de la segmentación y de eliminar los artifacts:
+ [paper](https://arxiv.org/pdf/1904.11126.pdf) "Skin Cancer Segmentation and Classification with NABLA-N and Inception Recurrent Residual Convolutional Networks"
 
