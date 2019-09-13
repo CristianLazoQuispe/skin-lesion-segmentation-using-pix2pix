@@ -56,7 +56,7 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 
 
 ### Ejemplo dataset para segmentacion de lesion:
-Para 50 epocas  para la imagen ISIC_0013664.jpg: 
+Para 50 epocas  para la imagen ISIC_0000264.jpg: 
 ####  Entrada_____________________________Original_____________________________Pix2pix
 <img src="images/ISIC_0000264_img.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0000264_seg.jpg?raw=true" height = "256"/> ![cifar11](images/OUTPUT_SEG.gif)
 
