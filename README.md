@@ -13,17 +13,10 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 </ul>
 <img src="images/MAP_ISIC_0000013.jpg?raw=true" width="2500" height = "300"/>
 
-### Ejemplo dataset para segmentacion de melanoma: 
+### Ejemplo dataset para segmentacion de lesion: 
 <img src="images/SEGMENTATION_ISIC_0000013.jpg?raw=true" width="600" height = "200"/>
 
 
-
-## Resultados
-
-### Ejemplo dataset para detección de atributos:
-Para 50 epocas  para la imagen ISIC_0013664.jpg: 
-####  Entrada_____________________________Original_____________________________Pix2pix
-<img src="images/ISIC_0013664.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "256"/> ![cifar10](images/OUTPUT_MAP.gif)
 
 
 
@@ -38,6 +31,21 @@ Para 50 epocas  para la imagen ISIC_0013664.jpg:
 ## Getting Started
 ### Installation
 - Install
+
+
+
+## Resultados
+
+### Ejemplo dataset para detección de atributos:
+Para 50 epocas  para la imagen ISIC_0013664.jpg: 
+####  Entrada_____________________________Original_____________________________Pix2pix
+<img src="images/ISIC_0013664.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "256"/> ![cifar10](images/OUTPUT_MAP.gif)
+
+
+### Ejemplo dataset para segmentacion de lesion:
+Para 50 epocas  para la imagen ISIC_0013664.jpg: 
+####  Entrada_____________________________Original_____________________________Pix2pix
+<img src="images/ISIC_0013664.jpg?raw=true" height = "256"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "256"/> ![cifar10](images/OUTPUT_MAP.gif)
 
 # Referencias
 Se toma como referencia el trabajo:
