@@ -1,4 +1,4 @@
-# Skin lesions attributes segmentation using Generative Adversarial Networks (Pix2pix)
+# Segmentation of Skin Lesions and their Attributes using Generative Adversarial Networks (Pix2pix)
 
 En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones cutaneas usando una red generativa adversaria (Generative Adversarial Networks) llamada Pix2pix. 
 La segmentacion de la lesión cutanea es un procedimiento esencial para la clasificación de melanoma o no melanoma, ya que se obtiene el área de interes eliminando los artifacts: "hairs, veins, ruler marks", para que el algoritmo que se use funcione mejor. 
