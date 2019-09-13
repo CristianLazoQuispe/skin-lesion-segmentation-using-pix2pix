@@ -22,8 +22,7 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 ### Ejemplo dataset para detección de atributos:
 
-<img src="images/ISIC_0013664.jpg?raw=true" width="425"/><img src="images/ISIC_0013664.jpg?raw=true" width="425"/>
-![cifar10](images/OUTPUT_MAP.gif)
+<img src="images/ISIC_0013664.jpg?raw=true" width="300"/><img src="images/ISIC_0013664.jpg?raw=true" width="300"/> ![cifar10](images/OUTPUT_MAP.gif)
 
 
 
