@@ -24,7 +24,7 @@ En el presente trabajo se realiza la tarea de segmentacion semantica de lesiones
 
 <img src="images/ISIC_0013664.jpg?raw=true" height = "200"/>  <img src="images/ISIC_0013664_map.jpg?raw=true" height = "200"/> 
 
-<img src="images/0_49.jpg?raw=true" height = "300"/>  ![cifar10](images/OUTPUT_MAP.gif)
+<img src="images/0_49.jpg?raw=true" height = "250"/>  ![cifar10](images/OUTPUT_MAP.gif)
 
 
 
