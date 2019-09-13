@@ -34,8 +34,10 @@ Necesitamos descargar estos archivos del concurso [2018 ISIC Challenge](https://
 Para preparar todo automaticamente usar el bash `sh preparar.sh` sino seguir los pasos:
 Yo uso conda enviroments:
 `conda create -n gansp3 python=3.7`
+
 `conda activate gansp3`
 
+`pip install opencv-python`
 
 ### Install dependencies
 
