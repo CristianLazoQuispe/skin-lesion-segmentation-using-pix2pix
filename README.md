@@ -38,9 +38,10 @@ Yo uso conda enviroments:
 
 ### Make dataset
 
-Run Make_dataset.ipynb 
+Run Make_dataset.ipynb , cambiar TARGET = 'MAP' or 'SEGMENTATION' dependiendo de la prueba que desees.
   
-Run Train_pix2pix.ipynb , cambiar CHANNELS_PATCHGAN = from 1 to 6 dependiendo de la prueba que desees.
+Run Train_Test_pix2pix.ipynb , cambiar TARGET = 'MAP' or 'SEGMENTATION' dependiendo de la prueba que desees.
+
 
 
 
